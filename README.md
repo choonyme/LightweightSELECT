@@ -23,7 +23,7 @@ Include the Javascript:
 
 Include the following CSS in order to customize the Lightweight Select:
 
-<code>
+```css
 /* hide original SELECT */
 select.styled{
 	display: none;
@@ -68,7 +68,7 @@ select.styled{
 .selectSet .selectMenu li:hover {
 	background: #efefef;
 }
-</code>
+```
 
 ### Contact
 
