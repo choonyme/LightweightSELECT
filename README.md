@@ -16,11 +16,13 @@ The .selectSet element is also given ID of select[original SELECT name]. So make
 ### Using Lightweight, CSS & Customizing It
 
 Include the Javascript:
+
 <code>
 <script type="text/javascript" src="lightweightSelect.js"></script>
 </code>
 
 Include the following CSS in order to customize the Lightweight Select:
+
 <code>
 /* hide original SELECT */
 select.styled{
