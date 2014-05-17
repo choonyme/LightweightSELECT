@@ -17,9 +17,9 @@ The .selectSet element is also given ID of select[original SELECT name]. So make
 
 Include the Javascript:
 
-<code>
+```html
 <script type="text/javascript" src="lightweightSelect.js"></script>
-</code>
+```
 
 Include the following CSS in order to customize the Lightweight Select:
 
