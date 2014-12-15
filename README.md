@@ -72,7 +72,7 @@ select.styled{
 
 ### Contact
 
-e-mail: cj@5eejay.com
+e-mail: cj at 5eejay dot com
 
 ### License
 
